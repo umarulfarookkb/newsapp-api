@@ -22,7 +22,7 @@
           "localized": true
         }
       },
-      "type": "string"
+      "type": "text"
     },
     "body": {
       "pluginOptions": {
@@ -30,7 +30,7 @@
           "localized": true
         }
       },
-      "type": "string"
+      "type": "text"
     },
     "writtenBy": {
       "pluginOptions": {
@@ -46,7 +46,7 @@
           "localized": true
         }
       },
-      "type": "string"
+      "type": "text"
     }
   }
 }
