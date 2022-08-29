@@ -30,7 +30,8 @@
           "localized": true
         }
       },
-      "type": "text"
+      "type": "text",
+      "maxLength": 200000
     },
     "writtenBy": {
       "pluginOptions": {
